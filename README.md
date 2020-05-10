@@ -1,0 +1,1 @@
+# Statistical-Approach-to-Stock-Price-Prediction-Naive-Forecast-Moving-Average
